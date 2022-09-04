@@ -1,4 +1,4 @@
-# A prototype LCD screen library for Rasberry Pi Pico 
+# A prototype LCD screen library for Raspberry Pi Pico 
 <br>
 The library is in early stage of development, primarily because it was in use for private projects only. I've decided to publish it
 so I can make something more out of it. List of functions and brief descriptions for some of them can be found in liblcd.h file.
